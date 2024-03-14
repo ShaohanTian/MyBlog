@@ -1,16 +1,16 @@
 name: Download and Save File
-on:
-  workflow_run:
-    workflows: ["Douban Get Json"]
-    types:
-      - completed
-  workflow_dispatch:
-    inputs:
-      unconditional-invoking:
-        description: '执行下载图片'
-        type: boolean
-        required: true
-        default: true
+on: push
+  # workflow_run:
+  #   workflows: ["Douban Get Json"]
+  #   types:
+  #     - completed
+  # workflow_dispatch:
+  #   inputs:
+  #     unconditional-invoking:
+  #       description: '执行下载图片'
+  #       type: boolean
+  #       required: true
+  #       default: true
 
 
 jobs:
