@@ -1,8 +1,6 @@
 # .github/workflows/douban.yml
 name: douban
-on: 
-  schedule:
-  - cron: "30 * * * *"
+on: push
 
 jobs:
   douban:
@@ -25,6 +23,14 @@ jobs:
       with:
         id: shaohanTian
         type: music
+        format: csv
+        dir: ./data/douban
+        
+     - name: book
+      uses: shaohanTian/doumark-action@master
+      with:
+        id: shaohanTian
+        type: book
         format: csv
         dir: ./data/douban
   
