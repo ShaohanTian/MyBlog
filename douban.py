@@ -16,7 +16,7 @@ json_file_path = ''
 csv_movie_path= './data/douban/movie.csv'
 # 这里是book的csv路径
 # csv_book_path = './data/douban/book.csv'
-csv_book_path= './data/douban/movie.csv'
+csv_book_path= './data/douban/book.csv'
 
 def dowoloadFile(image_url):
   # 确保文件夹路径存在
