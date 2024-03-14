@@ -11,17 +11,17 @@ jobs:
       uses: actions/checkout@v2
 
     - name: movie
-      uses: lizheming/doumark-action@master
+      uses: shaohanTian/doumark-action@master
       with:
-        id: lizheming
+        id: shaohanTian
         type: movie
         format: csv
         dir: ./data/douban
 
     - name: music
-      uses: lizheming/doumark-action@master
+      uses: shaohanTian/doumark-action@master
       with:
-        id: lizheming
+        id: shaohanTian
         type: music
         format: csv
         dir: ./data/douban
