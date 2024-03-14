@@ -33,7 +33,7 @@ jobs:
       with:
         id: shaohanTian
         type: book
-        format: csv
+        format: json
         dir: ./data/douban
 
     - name: Commit
