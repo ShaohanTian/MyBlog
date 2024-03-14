@@ -1,0 +1,682 @@
+[
+	{
+		"comment": "",
+		"rating": null,
+		"sharing_text": "https://music.douban.com/subject/20434006/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/20434006/interest/4126378601",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2024-03-14 13:04:53",
+		"status": "done",
+		"id": 4126378601,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 31364,
+				"max": 10,
+				"star_count": 4,
+				"value": 7.8
+			},
+			"genres": [
+				"流行"
+			],
+			"controversy_reason": "",
+			"pubdate": [
+				"2012-12-28"
+			],
+			"title": "十二新作",
+			"url": "https://music.douban.com/subject/20434006/",
+			"pic": {
+				"large": "https://img1.doubanio.com/view/subject/m/public/s24519059.jpg",
+				"normal": "https://img1.doubanio.com/view/subject/s/public/s24519059.jpg"
+			},
+			"singer": [
+				{
+					"name": "周杰伦"
+				}
+			],
+			"is_playable": true,
+			"uri": "douban://douban.com/music/20434006",
+			"is_released": true,
+			"is_show": false,
+			"cover_url": "https://dou.img.lithub.cc/music/20434006.jpg",
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "周杰伦 / 2012",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "516172",
+				"_base_color": [
+					0.5877192982456142,
+					0.2878787878787879,
+					0.25882352941176473
+				],
+				"secondary_color": "f4f7f9",
+				"_avg_color": [
+					0.5833333333333334,
+					0.22680412371134015,
+					0.3803921568627451
+				],
+				"primary_color_dark": "36404c"
+			},
+			"type": "music",
+			"id": "20434006",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/20434006/"
+		}
+	},
+	{
+		"comment": "",
+		"rating": null,
+		"sharing_text": "https://music.douban.com/subject/3313848/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/3313848/interest/4126378584",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2024-03-14 13:04:51",
+		"status": "done",
+		"id": 4126378584,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 25780,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 8.8
+			},
+			"genres": [
+				"流行"
+			],
+			"controversy_reason": "",
+			"pubdate": [
+				"September 23, 2008"
+			],
+			"title": "Poker Face",
+			"url": "https://music.douban.com/subject/3313848/",
+			"pic": {
+				"large": "https://img3.doubanio.com/view/subject/m/public/s3598342.jpg",
+				"normal": "https://img3.doubanio.com/view/subject/s/public/s3598342.jpg"
+			},
+			"singer": [
+				{
+					"name": "Lady Gaga"
+				}
+			],
+			"is_playable": false,
+			"uri": "douban://douban.com/music/3313848",
+			"is_released": true,
+			"is_show": false,
+			"cover_url": "https://dou.img.lithub.cc/music/3313848.jpg",
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "Lady Gaga / September 23, 2008",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "725342",
+				"_base_color": [
+					0.059649122807017584,
+					0.4222222222222222,
+					0.8823529411764706
+				],
+				"secondary_color": "f9f6f4",
+				"_avg_color": [
+					0.041666666666666664,
+					0.5309734513274336,
+					0.44313725490196076
+				],
+				"primary_color_dark": "4c372c"
+			},
+			"type": "music",
+			"id": "3313848",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/3313848/"
+		}
+	},
+	{
+		"comment": "",
+		"rating": null,
+		"sharing_text": "https://music.douban.com/subject/26874682/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/26874682/interest/4126378564",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2024-03-14 13:04:50",
+		"status": "done",
+		"id": 4126378564,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 6044,
+				"max": 10,
+				"star_count": 4,
+				"value": 7.9
+			},
+			"genres": [
+				"流行"
+			],
+			"controversy_reason": "",
+			"pubdate": [
+				"2016-09-24"
+			],
+			"title": "你在终点等我",
+			"url": "https://music.douban.com/subject/26874682/",
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/m/public/s29887434.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/s/public/s29887434.jpg"
+			},
+			"singer": [
+				{
+					"name": "王菲"
+				}
+			],
+			"is_playable": true,
+			"uri": "douban://douban.com/music/26874682",
+			"is_released": true,
+			"is_show": false,
+			"cover_url": "https://dou.img.lithub.cc/music/26874682.jpg",
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "王菲 / 2016",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "6a7253",
+				"_base_color": [
+					0.21212121212121207,
+					0.275,
+					0.1568627450980392
+				],
+				"secondary_color": "f8f9f4",
+				"_avg_color": [
+					0.1547619047619048,
+					0.1261261261261262,
+					0.43529411764705883
+				],
+				"primary_color_dark": "464c37"
+			},
+			"type": "music",
+			"id": "26874682",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/26874682/"
+		}
+	},
+	{
+		"comment": "",
+		"rating": null,
+		"sharing_text": "https://music.douban.com/subject/26462554/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/26462554/interest/4126378543",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2024-03-14 13:04:49",
+		"status": "done",
+		"id": 4126378543,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 28287,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 8.7
+			},
+			"genres": [
+				"流行"
+			],
+			"controversy_reason": "",
+			"pubdate": [
+				"2015-07-10"
+			],
+			"title": "小幸运",
+			"url": "https://music.douban.com/subject/26462554/",
+			"pic": {
+				"large": "https://img1.doubanio.com/view/subject/m/public/s28153590.jpg",
+				"normal": "https://img1.doubanio.com/view/subject/s/public/s28153590.jpg"
+			},
+			"singer": [
+				{
+					"name": "田馥甄 Hebe"
+				}
+			],
+			"is_playable": false,
+			"uri": "douban://douban.com/music/26462554",
+			"is_released": true,
+			"is_show": false,
+			"cover_url": "https://dou.img.lithub.cc/music/26462554.jpg",
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "田馥甄 Hebe / 2015",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "957fa5",
+				"_base_color": [
+					0.763888888888889,
+					0.23076923076923078,
+					0.20392156862745098
+				],
+				"secondary_color": "f7f4f9",
+				"_avg_color": [
+					0.9829931972789115,
+					0.29166666666666663,
+					0.6588235294117647
+				],
+				"primary_color_dark": "73627f"
+			},
+			"type": "music",
+			"id": "26462554",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/26462554/"
+		}
+	},
+	{
+		"comment": "",
+		"rating": null,
+		"sharing_text": "https://music.douban.com/subject/10530932/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/10530932/interest/4126378523",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2024-03-14 13:04:48",
+		"status": "done",
+		"id": 4126378523,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 14116,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 8.5
+			},
+			"genres": [
+				"流行"
+			],
+			"controversy_reason": "",
+			"pubdate": [
+				"2010-10-26"
+			],
+			"title": "Firework",
+			"url": "https://music.douban.com/subject/10530932/",
+			"pic": {
+				"large": "https://img3.doubanio.com/view/subject/m/public/s4518543.jpg",
+				"normal": "https://img3.doubanio.com/view/subject/s/public/s4518543.jpg"
+			},
+			"singer": [
+				{
+					"name": "Katy Perry"
+				}
+			],
+			"is_playable": false,
+			"uri": "douban://douban.com/music/10530932",
+			"is_released": true,
+			"is_show": false,
+			"cover_url": "https://dou.img.lithub.cc/music/10530932.jpg",
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "Katy Perry / 2010",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "a59590",
+				"_base_color": [
+					0.041666666666666664,
+					0.12903225806451613,
+					0.12156862745098039
+				],
+				"secondary_color": "f9f6f4",
+				"_avg_color": [
+					0.06666666666666649,
+					0.045045045045045015,
+					0.8705882352941177
+				],
+				"primary_color_dark": "7f736f"
+			},
+			"type": "music",
+			"id": "10530932",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/10530932/"
+		}
+	},
+	{
+		"comment": "",
+		"rating": null,
+		"sharing_text": " 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/27946814/interest/4126378362",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2024-03-14 13:04:35",
+		"status": "done",
+		"id": 4126378362,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 20607,
+				"max": 10,
+				"star_count": 4,
+				"value": 7.6
+			},
+			"genres": [
+				"流行"
+			],
+			"controversy_reason": "",
+			"pubdate": [
+				"2018-01-18"
+			],
+			"title": "等你下课",
+			"url": "https://music.douban.com/subject/27946814/",
+			"pic": {
+				"large": "https://img3.doubanio.com/view/subject/m/public/s29668892.jpg",
+				"normal": "https://img3.doubanio.com/view/subject/s/public/s29668892.jpg"
+			},
+			"singer": [
+				{
+					"name": "周杰伦"
+				}
+			],
+			"is_playable": true,
+			"uri": "douban://douban.com/music/27946814",
+			"is_released": true,
+			"is_show": false,
+			"cover_url": "https://dou.img.lithub.cc/music/27946814.jpg",
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "周杰伦 / 2018",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "72646d",
+				"_base_color": [
+					0.8999999999999999,
+					0.1219512195121952,
+					0.1607843137254902
+				],
+				"secondary_color": "f9f4f7",
+				"_avg_color": [
+					0.023809523809523742,
+					0.12962962962962957,
+					0.21176470588235294
+				],
+				"primary_color_dark": "4c4348"
+			},
+			"type": "music",
+			"id": "27946814",
+			"null_rating_reason": "",
+			"sharing_url": ""
+		}
+	},
+	{
+		"comment": "",
+		"rating": null,
+		"sharing_text": "https://music.douban.com/subject/1394693/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1394693/interest/4126378350",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2024-03-14 13:04:34",
+		"status": "done",
+		"id": 4126378350,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 32526,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 9.4
+			},
+			"genres": [
+				"流行"
+			],
+			"controversy_reason": "",
+			"pubdate": [
+				"1997-09-30"
+			],
+			"title": "王菲",
+			"url": "https://music.douban.com/subject/1394693/",
+			"pic": {
+				"large": "https://img1.doubanio.com/view/subject/m/public/s3336530.jpg",
+				"normal": "https://img1.doubanio.com/view/subject/s/public/s3336530.jpg"
+			},
+			"singer": [
+				{
+					"name": "王菲"
+				}
+			],
+			"is_playable": true,
+			"uri": "douban://douban.com/music/1394693",
+			"is_released": true,
+			"is_show": false,
+			"cover_url": "https://dou.img.lithub.cc/music/1394693.jpg",
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "王菲 / 1997",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "a5a5a2",
+				"_base_color": [
+					0.19999999999999982,
+					0.02155172413793108,
+					0.9098039215686274
+				],
+				"secondary_color": "f8f9f4",
+				"_avg_color": [
+					0.13333333333333333,
+					0.02808988764044934,
+					0.6980392156862745
+				],
+				"primary_color_dark": "7e7f7c"
+			},
+			"type": "music",
+			"id": "1394693",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/1394693/"
+		}
+	},
+	{
+		"comment": "",
+		"rating": null,
+		"sharing_text": "https://music.douban.com/subject/2210561/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/2210561/interest/4126378329",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2024-03-14 13:04:32",
+		"status": "done",
+		"id": 4126378329,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 73998,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 8.6
+			},
+			"genres": [
+				"流行"
+			],
+			"controversy_reason": "",
+			"pubdate": [
+				"2006-09-05"
+			],
+			"title": "依然范特西",
+			"url": "https://music.douban.com/subject/2210561/",
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/m/public/s1943885.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/s/public/s1943885.jpg"
+			},
+			"singer": [
+				{
+					"name": "周杰伦"
+				}
+			],
+			"is_playable": true,
+			"uri": "douban://douban.com/music/2210561",
+			"is_released": true,
+			"is_show": false,
+			"cover_url": "https://dou.img.lithub.cc/music/2210561.jpg",
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "周杰伦 / 2006",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "72685f",
+				"_base_color": [
+					0.08333333333333333,
+					0.17112299465240643,
+					0.7333333333333333
+				],
+				"secondary_color": "f9f7f4",
+				"_avg_color": [
+					0,
+					0.09803921568627458,
+					0.2
+				],
+				"primary_color_dark": "4c453f"
+			},
+			"type": "music",
+			"id": "2210561",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/2210561/"
+		}
+	},
+	{
+		"comment": "",
+		"rating": null,
+		"sharing_text": "https://music.douban.com/subject/26237597/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/26237597/interest/4126378267",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2024-03-14 13:04:28",
+		"status": "done",
+		"id": 4126378267,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 22980,
+				"max": 10,
+				"star_count": 4,
+				"value": 8.4
+			},
+			"genres": [
+				"原声"
+			],
+			"controversy_reason": "",
+			"pubdate": [
+				"2014-11-03"
+			],
+			"title": "匆匆那年",
+			"url": "https://music.douban.com/subject/26237597/",
+			"pic": {
+				"large": "https://img3.doubanio.com/view/subject/m/public/s27765992.jpg",
+				"normal": "https://img3.doubanio.com/view/subject/s/public/s27765992.jpg"
+			},
+			"singer": [
+				{
+					"name": "王菲"
+				}
+			],
+			"is_playable": false,
+			"uri": "douban://douban.com/music/26237597",
+			"is_released": true,
+			"is_show": false,
+			"cover_url": "https://dou.img.lithub.cc/music/26237597.jpg",
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "王菲 / 2014",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "a59176",
+				"_base_color": [
+					0.09722222222222217,
+					0.2874251497005988,
+					0.6549019607843137
+				],
+				"secondary_color": "f9f7f4",
+				"_avg_color": [
+					0.10119047619047622,
+					0.14973262032085555,
+					0.7333333333333333
+				],
+				"primary_color_dark": "7f705a"
+			},
+			"type": "music",
+			"id": "26237597",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/26237597/"
+		}
+	},
+	{
+		"comment": "",
+		"rating": null,
+		"sharing_text": "https://music.douban.com/subject/34431984/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/34431984/interest/4126378222",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2024-03-14 13:04:24",
+		"status": "done",
+		"id": 4126378222,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 40171,
+				"max": 10,
+				"star_count": 4,
+				"value": 8.3
+			},
+			"genres": [
+				"流行"
+			],
+			"controversy_reason": "",
+			"pubdate": [
+				"2019-08-23"
+			],
+			"title": "Lover",
+			"url": "https://music.douban.com/subject/34431984/",
+			"pic": {
+				"large": "https://img1.doubanio.com/view/subject/m/public/s33297969.jpg",
+				"normal": "https://img1.doubanio.com/view/subject/s/public/s33297969.jpg"
+			},
+			"singer": [
+				{
+					"name": "Taylor Swift"
+				}
+			],
+			"is_playable": false,
+			"uri": "douban://douban.com/music/34431984",
+			"is_released": true,
+			"is_show": false,
+			"cover_url": "https://dou.img.lithub.cc/music/34431984.jpg",
+			"article_intros": [],
+			"subtype": "music",
+			"card_subtitle": "Taylor Swift / 2019",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "a5909c",
+				"_base_color": [
+					0.9022988505747126,
+					0.12831858407079638,
+					0.8862745098039215
+				],
+				"secondary_color": "f9f4f7",
+				"_avg_color": [
+					0.8888888888888888,
+					0.1137440758293839,
+					0.8274509803921568
+				],
+				"primary_color_dark": "7f6f78"
+			},
+			"type": "music",
+			"id": "34431984",
+			"null_rating_reason": "",
+			"sharing_url": "https://music.douban.com/subject/34431984/"
+		}
+	}
+]
