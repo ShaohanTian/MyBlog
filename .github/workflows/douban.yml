@@ -1,6 +1,8 @@
 # .github/workflows/douban.yml
 name: douban
-on: push
+on:
+  schedule:
+  - cron: "30 * * * *"
 
 jobs:
   douban:
@@ -11,7 +13,7 @@ jobs:
       uses: actions/checkout@v2
 
     - name: movie
-      uses: lizheming/doumark-action@master
+      uses: ShaohanTian/doumark-action@master
       with:
         id: shaohanTian
         type: movie
@@ -19,13 +21,21 @@ jobs:
         dir: ./data/douban
 
     - name: music
-      uses: lizheming/doumark-action@master
+      uses: ShaohanTian/doumark-action@master
       with:
         id: shaohanTian
         type: music
         format: csv
         dir: ./data/douban
-  
+
+    - name: book
+      uses: ShaohanTian/doumark-action@master
+      with:
+        id: shaohanTian
+        type: book
+        format: csv
+        dir: ./data/douban
+
     - name: Commit
       uses: EndBug/add-and-commit@v8
       with:
